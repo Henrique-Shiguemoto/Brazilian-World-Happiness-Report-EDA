@@ -12,7 +12,7 @@ The public report data is structured in excel files. Some years have different c
 |--------------------------------------------|----------------------------------------------------------------------------------------------|
 | Country                                    | The name of the country                                                                      |
 | Happiness score                            | Overall happiness score of the country                                                       |
-| Dystopia (1.83) + residual                 | Baseline happiness level (Dystopia) plus unexplained residual                                |
+| Dystopia + residual                        | Baseline happiness level (Dystopia) plus unexplained residual                                |
 | Explained by: GDP per capita               | Contribution of GDP per capita to the happiness score                                        |
 | Explained by: Social support               | Contribution of social support to the happiness score                                        |
 | Explained by: Healthy life expectancy      | Contribution of healthy life expectancy to the happiness score                               |
